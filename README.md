@@ -2,7 +2,7 @@
 
 ### My name is Anna Shilina
 
-<a href="https://www.linkedin.com/in/anshilina/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshilina/" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png" alt="" height="30" width="40" /></a>
 
 
 
