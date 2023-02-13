@@ -2,7 +2,7 @@
 
 ### My name is Anna Shilina
 
-I am a highly trained data analyst with strong motivation to grow as data scientist. Have 4+ years of experience in GR analytics. I am interested in the fields of EdTech, RegTech and RealTech since I believe that working with customers data to improve product is a very exciting field of machine learning. 
+I'm highly trained data analyst with strong motivation to grow as data scientist. Have 4+ years of experience in GR analytics. I am interested in the fields of EdTech, RegTech and RealTech since I believe that working with customers data to improve product is a very exciting field of machine learning. For me the most important thing in job is to see that research results have application in practice. 
 
 * 📚 I’m doing my PhD in Political Science and currently studying how people perceive internet trolls
 * 👀 I'm currently learning Computer Vision
