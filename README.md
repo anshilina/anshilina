@@ -2,7 +2,8 @@
 
 ### My name is Anna Shilina
 
-<a href="https://www.linkedin.com/in/anshilina/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshilina/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)" alt="" height="30" width="40" /></a>
+
 
 
 Welcome to my GitHub and nice to meet you!
