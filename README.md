@@ -8,7 +8,7 @@ I'm highly trained data analyst with strong motivation to grow as data scientist
 
 * 📚 I’m doing PhD in Political Science and currently studying how people perceive internet trolls
 * 👀 I'm currently learning Computer Vision
-* 👩‍💻 I’m looking for a project where I can use and improve my skills in data science
+* 👩‍💻 I’m looking for a project where I can use and improve my ML skills
 * 💎 My goal for 2023 – to read 23 books
 * 📬 How to reach me: shilinaannanikolaevna@gmail.com
 * 🇰🇷 Interesting fact: I speak Korean
