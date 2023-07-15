@@ -2,7 +2,7 @@
 
 ## My name is Anna Shilina
 
-### [Click](https://github.com/anshilina/ds_projects_2022) to access my recent projects.
+### [Click](https://github.com/anshilina/hackathon_yandex) to access my recent projects.
 
 I'm highly trained data analyst with strong motivation to grow as data scientist. Have 4+ years of experience in GR analytics. I am interested in the fields of EdTech, RegTech and RealTech since I believe that working with customers data to improve product is a very exciting field of machine learning. For me the most important thing in job is to see that research results have application in practice. 
 
