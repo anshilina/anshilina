@@ -4,12 +4,11 @@
 
 ### [Click](https://github.com/anshilina/hackathon_yandex) to access my recent projects.
 
-I'm highly trained data analyst with strong motivation to grow as data scientist. Have 4+ years of experience in GR analytics. I am interested in the fields of EdTech, RegTech and RealTech since I believe that working with customers data to improve product is a very exciting field of machine learning. For me the most important thing in job is to see that research results have application in practice. 
+Data analyst with over 3 years of experience. Led the team of developers in creating a digital analytics platform. Experienced in handling big data (Python, R), working with various databases (SQL), and writing analytical reports. Able to quickly integrate into a new team and work collaboratively.
 
 * 📚 I’m doing PhD in Political Science and currently studying how people perceive internet trolls
-* 👀 I'm currently learning MLOps
+* 👀 I'm currently working on improving my statistics skills 
 * 👩‍💻 I’m looking for a project where I can use and improve my ML skills
-* 💎 My goal for 2023 – to read 23 books
 * 📬 How to reach me: shilinaannanikolaevna@gmail.com
 * 🇰🇷 Interesting fact: I speak Korean
 
